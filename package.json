@@ -14,7 +14,7 @@
   "keywords": [
     "Express"
   ],
-  "author": "ZexxaDevID",
+  "author": "insdev",
   "license": "ISC",
   "dependencies": {
     "api-dylux": "^1.7.1",
